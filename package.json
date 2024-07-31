@@ -11,6 +11,6 @@
   "description": "",
   "dependencies": {
     "minimist": "1.2.5",
-    "mongoose": "4.2.4"
+    "mongoose": "5.13.20"
   }
 }
