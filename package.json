@@ -11,7 +11,7 @@
   "description": "",
   "dependencies": {
     "handlebars": "4.0.14",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "mongodb": "^3.5.9",
     "mongoose": "4.2.4",
     "lodash": "4.17.4",
